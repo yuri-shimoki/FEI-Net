@@ -60,7 +60,7 @@ A imagem requisitada deste projeto é a logo da FEI Net, que está presente na a
 
 ## Execução
 
-No terminal, entre na pasta (fei-net/fei-net)[fei-net/fei-net], e digite:
+No terminal, entre na pasta [fei-net/fei-net](fei-net/fei-net), e digite:
 
 ```npm install```
 
