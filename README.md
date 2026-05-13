@@ -27,7 +27,7 @@ Na FEI Net, o usuário é capaz de:
   - Inicialmente o plano era filtrar os posts para apenas amigos e clubes do qual o usuário faz parte, mas, por falta de tempo, esta ideia foi descartada.
 - Entrar ou sair de clubes: O usuário pode entrar ou sair de clubes já existentes. O usuário só é capaz de visualizar os posts de um clube se ele estiver participando desse clube. Um clube é automaticamente deletado se ele estiver vazio (não possuir membros).
   - Inicialmente, isto afetaria os posts visíveis na página inicial, mas, com o descarte da ideia de filtragem, esta função apenas impede o usuário de acessar imediatamente a página de posts de um clube.
-- Criar posts em clubes: O usuário pode criar posts em um clube da mesma forma que cria posts globais para outros usuários.
+- Criar e deletar posts em clubes: O usuário pode criar e deletar posts em um clube da mesma forma que cria e deleta posts globais para outros usuários.
 - Adicionar ou remover amigos: O usuário pode adicionar como amigo outros usuários cadastrados na plataforma, ou desfazer a amizade com usuários que já são amigos (remover amigos). O usuário só é capaz de visualizar a conversa entre ele e um outro usuário se ele for amigo dele.
   - Inicialmente, isto afetaria os posts visíveis na página inicial, mas, com o descarte da ideia de filtragem, esta função apenas impede o usuário de acessar imediatamente a página de conversa do amigo.
 - Enviar mensagens para os amigos: O usuário é capaz de enviar mensagens privadas para um amigo. As mensagens só podem conter texto.
