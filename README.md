@@ -57,3 +57,15 @@ As abas abaixo são telas de um BottomTabNavigator, exceto pela tela de feed do 
 - Perfil: onde é possível ver os dados da sua conta (nome e senha) e sair de sua conta, voltando para a tela de login.
 
 A imagem requisitada deste projeto é a logo da FEI Net, que está presente na aba superior da tela uma vez que o usuário esteja logado.
+
+## Execução
+
+No terminal, entre na pasta (fei-net/fei-net)[fei-net/fei-net], e digite:
+
+```npm install```
+
+Após a instalação, execute:
+
+```npx expo start```
+
+Um código QR irá aparecer no terminal. Escaneie-o utilizando seu celular e abra-o utilizando o aplicativo Expo Go.
