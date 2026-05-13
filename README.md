@@ -23,7 +23,7 @@ O projeto precisa:
 
 Na FEI Net, o usuário é capaz de:
 - Criar e entrar em uma conta: O usuário pode criar uma conta especificando um nome de usuário único e uma senha. Após a criação da conta, o usuário pode acessar o aplicativo ao fazer login utilizando tal conta.
-- Criar posts pessoais: O usuário pode criar um post que estará visível para todos os usuários da plataforma. O post contém apenas uma mensagem de texto não vazia, e é exibido como um cartão contendo essa mensagem, o nome do autor, e a data de publicação.
+- Criar e deletar posts pessoais: O usuário pode criar um post que estará visível para todos os usuários da plataforma. O post contém apenas uma mensagem de texto não vazia, e é exibido como um cartão contendo essa mensagem, o nome do autor, e a data de publicação. O usuário também é capaz de deletar apenas seus posts.
   - Inicialmente o plano era filtrar os posts para apenas amigos e clubes do qual o usuário faz parte, mas, por falta de tempo, esta ideia foi descartada.
 - Entrar ou sair de clubes: O usuário pode entrar ou sair de clubes já existentes. O usuário só é capaz de visualizar os posts de um clube se ele estiver participando desse clube. Um clube é automaticamente deletado se ele estiver vazio (não possuir membros).
   - Inicialmente, isto afetaria os posts visíveis na página inicial, mas, com o descarte da ideia de filtragem, esta função apenas impede o usuário de acessar imediatamente a página de posts de um clube.
